@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tanachai Anakewat, an enthusiastic Engineering Based in Tokyo,Japan
 - 👀 I’m interested in Front-Back Web Development, Data analysis, and VR
 - 🌱 I’m currently majoring in Mechano-Informatics in The University of Tokyo
-- 💞️ I’m looking to epand my connection with Developers all over the world
 - 📫 How to reach me
 -email: thunanakewat@gmail.com
 Tel: (+81) 080-7170-7758
